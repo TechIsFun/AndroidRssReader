@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory
+        android:title="RSS URL">
+
+        <EditTextPreference
+            android:key="pref_rss_url"
+            android:title="Rss url"
+            android:dialogTitle="Enter rss url"
+            android:defaultValue="http://feeds.bbci.co.uk/news/rss.xml"
+            />
+    </PreferenceCategory>
+
+</PreferenceScreen>

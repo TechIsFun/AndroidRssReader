@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AndroidRssReader</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="open_in_browser">Open in browser</string>
+    <string name="feed_error">Sorry, cannot get feed from url %s</string>
+
+</resources>
