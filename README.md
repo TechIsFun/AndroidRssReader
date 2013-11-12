@@ -1,10 +1,21 @@
 AndroidRssReader
 ================
 
-This is a simple RSS reader for Android.
+This is simple **RSS reader** for Android.
 
-Developed with *gradle* and *Android Studio*.
+Features
+--------
+* network request caching
+* network connectivity listener
+* open links in browser
+* async image loading
 
-Library used:
-[ActionBarSherlock](http://github.com/JakeWharton/ActionBarSherlock/ "ActionBarSherlock")
-[robospice](http://github.com/octo-online/robospice "robospice")
+Development tools
+-----------------
+* gradle
+* Android Studio
+
+Third-party libraries
+--------------------
+* [ActionBarSherlock](http://github.com/JakeWharton/ActionBarSherlock/ "ActionBarSherlock")
+* [robospice](http://github.com/octo-online/robospice "robospice")
