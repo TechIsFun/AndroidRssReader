@@ -1,7 +1,7 @@
 AndroidRssReader
 ================
 
-This is simple **RSS reader** for Android.
+This is a simple **RSS reader** for Android.
 
 Features
 --------
